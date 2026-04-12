@@ -86,3 +86,13 @@ Reference by number from the parent PRD:
 </issue-template>
 
 Do NOT close or modify the parent PRD issue.
+
+### 6. Add to GitHub Project (optional)
+
+If the user provided a `--project <number> --owner <org>` flag, add each created issue to the GitHub Project after creation:
+
+```bash
+gh project item-add <project_number> --owner <org> --url <issue_url>
+```
+
+This enables multi-repo workflows where ralph reads tasks from a GitHub Project board.
