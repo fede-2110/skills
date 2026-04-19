@@ -5,7 +5,7 @@ Backup of Claude Code skills. Lives directly at `~/.claude/skills/`.
 ## Restore
 
 ```bash
-git clone https://github.com/fede-2110/agent-skills.git ~/.claude/skills
+git clone https://github.com/fede-2110/skills.git ~/.claude/skills
 ```
 
 ## Skills
