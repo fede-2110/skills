@@ -18,8 +18,6 @@ git clone https://github.com/fede-2110/agent-skills.git ~/.claude/skills
 - **explain-code** — Explain code with diagrams and analogies
 - **frontend-design** — Production-grade frontend interfaces
 - **grill-me** — Stress-test a plan or design through interview
-- **onvo-qa** — QA suite for ONVO payment plugin
-- **pathways** — Manage Pathways dev services
 - **pdf** — Read, create, merge, split PDF files
 - **pnpm-not-found** — Fix pnpm/corepack errors
 - **pptx** — Create and edit PowerPoint presentations
